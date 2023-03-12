@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "arcade-physics": "^0.1.0"
+  }
+}
